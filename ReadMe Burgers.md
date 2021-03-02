@@ -13,3 +13,7 @@ Potential Future Plans: A way to dynamically create a burger with individual ing
 Additional Notes: The final author of this application is Joey Davidson. He can be reached at j.davidson18@gmail.com
 
 WEBSITES
+
+https://dashboard.heroku.com/apps/vast-sierra-51763
+
+https://github.com/davidsjg/Burger-Consuming-Tracker
