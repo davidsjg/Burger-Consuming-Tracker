@@ -1,4 +1,4 @@
-# Burger-Consuming-TrackerTitle: Burger Consuming Tracker
+Title: Burger Consuming Tracker
 
 Introduction: The functionality of this application is to allow the user to enter a burger that they woud like to 'consume'. Once the user submits the type of burger, it is added to a list of burgers that are ready to be consumed. The user can click 'Eat-Me' and the burer will be moved into a new list of consued burgers.
 
@@ -13,5 +13,3 @@ Potential Future Plans: A way to dynamically create a burger with individual ing
 Additional Notes: The final author of this application is Joey Davidson. He can be reached at j.davidson18@gmail.com
 
 WEBSITES
-
-https://github.com/davidsjg/Burger-Consuming-Tracker
